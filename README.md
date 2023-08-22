@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+    <img src="https://osu-sig.vercel.app/card?user=shaddarktg&mode=std&lang=en&animation=true">
+</div>
 <!--
 **ShaddarkTG/ShaddarkTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
