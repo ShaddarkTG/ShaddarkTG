@@ -1,4 +1,4 @@
-### Hi there 👋
+### A noob osu player
 <div align="center">
     <img src="https://osu-sig.vercel.app/card?user=shaddarktg&mode=std&lang=en&animation=true">
 </div>
